@@ -1,5 +1,5 @@
 # Re-Re-ss_my_web_survice
-##コード内容　⇒　DjangoとHerokuで開発したアプリケーションの一部（情報を一部控えさせていただきます。
+##コード内容　⇒　DjangoとHerokuで開発したアプリケーションの一部（情報を一部控えさせていただきます。）
 
 ##アプリ名：Re:Re:ss (Record Registration Scraping System) 通称リリス
 
